@@ -6,7 +6,7 @@ You get the more realistic process of a plate check
 
 **How does it work**
 - You stopping the vehicle
-- Do a request check
+- Do a request for a plate check
 - Press the button after request
 - *'Dispatch'* starts find info about vehicle and its owner
 - You get the convenient and detailed report
@@ -18,7 +18,7 @@ You get the more realistic process of a plate check
 - *Owner name* and his *warrant/s*
 - *DL status*
 
-Your actions have sound surrounding like press button or getting report
+Your actions have sound surroundings like press button or getting report
 
 # Installation
 Place `TSInfo.net.dll` in `fivepd/plugins`
