@@ -14,6 +14,7 @@ You get the more realistic process of a plate check
 **Report** consists of:
 - Short *color name* and *model* of vehicle
 - *Vehicle flags*, if any
+- A note if vehicle was stopped multiple times
 - *Insurance* and *Registration* check
 - *Owner name* and his *warrant/s*
 - *DL status*
