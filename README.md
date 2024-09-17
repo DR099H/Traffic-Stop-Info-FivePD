@@ -28,8 +28,10 @@ Place `TSInfo.net.dll` in `fivepd/plugins`
 
 # Plugin is WIP
 Currently working on:
-- [ ] **Full translation** on any language
+- [ ] **Config** for full plugin customize
 
+  - [ ] **Full translation** on any language
+        
+  - [ ] Customizable button (only `N` now)
+        
 - [x] Pursuit check for cancelling report
-
-- [ ] Customizable button (only `N` now)
