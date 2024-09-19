@@ -21,6 +21,11 @@ You get the more realistic process of a plate check
 
 Your actions have sound surroundings like press button or getting report
 
+A plugin has a __Config__ for full customize:
+- __Change keybind__ after requesting a plate check
+- __Change__ minimum and maximum __wait time__ of report
+- __Translate all text__ to your language ( _Note: text may not fit in different languages_ )
+
 # Installation
 1. Download the [latest release](https://github.com/DR099H/Traffic-Stop-Info-FivePD/releases)
    
