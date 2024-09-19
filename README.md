@@ -22,16 +22,20 @@ You get the more realistic process of a plate check
 Your actions have sound surroundings like press button or getting report
 
 # Installation
-Download the [latest release](https://github.com/DR099H/Traffic-Stop-Info-FivePD/releases)
-
-Place `TSInfo.net.dll` in `fivepd/plugins`
+1. Download the [latest release](https://github.com/DR099H/Traffic-Stop-Info-FivePD/releases)
+   
+2. Place the `TSInfo` folder into `fivepd/plugins`
+   
+3. Make sure you have `'./plugins/**/*.net.dll'` string in `client_scripts` section of `fxmanifest.lua`
 
 # Plugin is WIP
 Currently working on:
-- [ ] **Config** for full plugin customize
+- [ ] Make sure that the plugin is stable
 
-  - [ ] **Full translation** on any language
+- [x] **Config** for full plugin customize (_thanks [DevKilo](https://github.com/DevKilo1/Kilo.Commons.Config) for his config_)
+
+  - [x] **Full translation** on any language
         
-  - [ ] Customizable button (only `N` now)
+  - [x] Customizable button (only `N` now)
         
 - [x] Pursuit check for cancelling report
